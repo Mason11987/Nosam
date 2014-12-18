@@ -1,0 +1,3 @@
+C:\SkyDrive\Documents\Code\DotNet\XNAPlatformer\XNAPlatformer\XNAPlatformerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\SkyDrive\Documents\Code\DotNet\XNAPlatformer\XNAPlatformer\XNAPlatformerContent\obj\x86\Debug\XNAPlatformerContent.contentprojResolveAssemblyReference.cache
+C:\OneDrive\Documents\Code\DotNet\XNAPlatformer\XNAPlatformer\XNAPlatformerContent\obj\x86\Debug\XNAPlatformerContent.contentprojResolveAssemblyReference.cache

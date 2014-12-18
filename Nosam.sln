@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nosam", "Nosam\Nosam\Nosam.csproj", "{661BE645-E957-4271-8A6C-03524441F5ED}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "NosamContent", "Nosam\NosamContent\NosamContent.contentproj", "{FEB6CACD-0FAE-45F7-BDCC-598C14D43570}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{661BE645-E957-4271-8A6C-03524441F5ED}.Debug|x86.ActiveCfg = Debug|x86
+		{661BE645-E957-4271-8A6C-03524441F5ED}.Debug|x86.Build.0 = Debug|x86
+		{661BE645-E957-4271-8A6C-03524441F5ED}.Release|x86.ActiveCfg = Release|x86
+		{661BE645-E957-4271-8A6C-03524441F5ED}.Release|x86.Build.0 = Release|x86
+		{FEB6CACD-0FAE-45F7-BDCC-598C14D43570}.Debug|x86.ActiveCfg = Debug|x86
+		{FEB6CACD-0FAE-45F7-BDCC-598C14D43570}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
